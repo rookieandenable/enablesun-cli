@@ -1,6 +1,6 @@
 {
   "name": "@enablesun-cli/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "enablesun-cli/utils",
   "author": "turnintolight <sunjinhua266@163.com>",
   "homepage": "",
@@ -15,7 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Error: run test from utils\" "
-  },
-  "dependencies": {
   }
 }
