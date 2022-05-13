@@ -1,3 +1,3 @@
 #! /usr/bin/env node
 
-console.log('enablesun-cli bin');
+console.log('enablesun-cli bin/index');
