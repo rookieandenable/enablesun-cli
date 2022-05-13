@@ -1,6 +1,6 @@
 {
   "name": "@enablesun-cli/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "enablesun-cli/utils",
   "author": "turnintolight <sunjinhua266@163.com>",
   "homepage": "",
@@ -15,5 +15,9 @@
   ],
   "scripts": {
     "test": "echo \"Error: run test from utils\" "
+  },
+  "gitHead": "89ff9b12f931691071d975a334a3f71702bba05a",
+  "publishConfig": {
+    "access": "public"
   }
 }

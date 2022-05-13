@@ -1,10 +1,13 @@
 {
   "name": "@enablesun-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "@enablesun-cli/core",
   "author": "turnintolight <sunjinhua266@163.com>",
   "homepage": "",
   "license": "ISC",
+  "bin": {
+    "enablesun-cli": "bin/index.js"
+  },
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",
@@ -18,5 +21,9 @@
   },
   "dependencies": {
     "@imooc-cli/utils": "^1.1.3"
+  },
+  "gitHead": "89ff9b12f931691071d975a334a3f71702bba05a",
+  "publishConfig": {
+    "access": "public"
   }
 }
